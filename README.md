@@ -18,3 +18,10 @@ Under the pretense that manager wanted to know the total revenue per category an
 ### Visualization Tools
 - Plotly
 - Seaborn
+
+---
+
+##Plotly Visualization
+<img width="1396" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5fea6d4-d2b1-4cdb-a725-6b612934ff3a" />
+
+<img width="1396" height="450" alt="Image" src="https://github.com/user-attachments/assets/13ea57f8-ec12-4e72-924e-d55567b1b4e0" />
